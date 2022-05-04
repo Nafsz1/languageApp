@@ -24,6 +24,8 @@ public class ReadCSVData {
         Connection Con = ConnectDatabase.GetConnection();
         String filePath = "./topic.csv";
         
+        //https://github.com/youtube-arjun-codes/CsvToDatabaseJava/blob/master/src/main/java/CSVConsume.java
+        //I used this website to help me read the CSV file and update the database 
                 try{
 
                     String sql="insert into Topic(Level, Context, SubContext) values(?,?,?)";

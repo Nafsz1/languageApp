@@ -205,6 +205,8 @@ public class teacherLevelsPanel extends javax.swing.JFrame {
 
     private void jComboBox2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jComboBox2ActionPerformed
         // TODO add your handling code here:
+        //https://1bestcsharp.blogspot.com/2015/02/java-how-to-bind-jcombobox-with-mysql.html
+        //I used this website to help me fill the combo box with data from the databse
         Connection con = ConnectDatabase.GetConnection();
         int option = jComboBox2.getSelectedIndex();
         Statement st;
