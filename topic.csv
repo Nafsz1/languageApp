@@ -1,0 +1,63 @@
+Level,Context,SubContext
+A1,Ordering food and drink,Takeaway
+A1,Exchanging personal information,Social Media
+A1,Going shopping and asking for prices,Payment
+A1,Making Appointments,Booking
+A1,Introductions,Repeat name
+A1,Basic employment issues,Cover
+A1,Going shopping and asking for prices,Refund
+A1,Socialising in the country,Interview arrangements
+A1,Ordering food and drink,Coffee Order
+A1,Making Appointments,Spelling your name
+A1,Basic employment issues,Inteview
+A1,Ordering food and drink,Water for table
+A1,Ordering food and drink,Reservation
+A1,Asking and giving directions,Delivery Driver
+A1,Exchanging personal information,Instagram
+A1,Exchaning personal information,neighbour's parcel
+A1,Ordering food and drink,Cocktails by card payment
+A1,Making invitations,Disneyland
+A1,Making invitations,Help with child's birthday party
+A1,Exchaning personal information,Description of town
+A1,University life,Study in cafe
+A1,Cross-cultural experiences,International Food
+A2,Asking and giving directions,Delivery Driver
+A2,Ordering food and drink,Vegan pizza
+A2,Making Appointments,Dentist
+A2,Ordering food and drink,Reservation
+A2,Going shopping and asking for prices,Payment
+A2,Health matters,Sick relative
+A2,Making invitations,Charity
+A2,Making invitations,Lunch
+A2,Ordering food and drink,Delayed drinks order
+A2,Socialising in the country,Family size
+A2,Ordering food and drink,QR Code
+A2,Making Appointments,Doctor
+A2,Making travel arrangements,Expired Ticket
+A2,Exchaning personal information,Age restricted
+A2,Introductions,Ist day in job
+A2,Introductions,Job offer
+A2,Asking and giving directions,Hospital Visit
+A2,Ordering food and drink,Cocktails
+A2,Socialising,Succulent
+A2,Making invitations,Children at wedding
+A2,Making invitations,Wedding RSVP
+A2,Cross-cultural experiences,Omelette
+A2,Ordering food and drink,Cocktails
+A2,Health,Visiting patient
+A2,Weather and weather conditions,Clothing for weather
+B1,Going shopping and asking for prices,Payment
+B1,University life,Study plans
+B1,Making travel arrangements,E.ticket
+B1,Going shopping and asking for prices,Cancel hair appointment
+B1,Going shopping and asking for prices,Purchase of computer
+B1,Socialising,Hair cut
+B1,Weather,Rain in station
+B1,Ordering food and drink,Ordering cocktails by barcode
+B1,Making invitations,Offering help for Pink Unicorn Party
+B1,Work life,Job offer
+B1,Housing conditions,Delivery of packages
+B2,Going shopping and asking for prices,Phone purchase
+B2,Work life,Meet for drinks
+B2,Making travel arrangements,Disneyland
+B2,Socialising in the country,No show date
